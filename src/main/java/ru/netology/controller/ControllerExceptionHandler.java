@@ -1,4 +1,4 @@
-package controller;
+package ru.netology.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.BindException;
