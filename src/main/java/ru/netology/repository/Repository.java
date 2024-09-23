@@ -1,6 +1,6 @@
 package ru.netology.repository;
 
-import person.Person;
+import ru.netology.person.Person;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
