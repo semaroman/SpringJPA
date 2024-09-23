@@ -1,6 +1,6 @@
 package repository;
 
-import org.example.entity.Person;
+import person;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
