@@ -1,3 +1,5 @@
+package repository;
+
 import person.Person;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.data.jpa.repository.JpaRepository;
